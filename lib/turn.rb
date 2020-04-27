@@ -40,3 +40,7 @@ end
 def turn(board)
   puts "Please enter 1-9"
 end
+
+puts "Welcome to Tic Tac Toe!"
+display_board(board)
+turn(board)
